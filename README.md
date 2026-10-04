@@ -36,9 +36,7 @@ Tugas Post Test Praktikum 2
 
 **Hasil:**
 
-<img width="301" height="146" alt="Screenshot 2026-10-04 130426" src="https://github.com/user-attachments/assets/9958ddc7-89fb-40bb-ad11-e875513a0196" /><img width="285" height="132" alt="Screenshot 2026-10-04 130452" src="https://github.com/user-attachments/assets/8cf0e3b2-2cbe-4d6a-9dc9-b2270499e95e" />
-<img width="364" height="238" alt="Screenshot 2026-10-04 130521" src="https://github.com/user-attachments/assets/21620a50-de7e-4a0a-86a8-3d32f6e513ea" />
-<img width="285" height="132" alt="Screenshot 2026-10-04 130452" src="https://github.com/user-attachments/assets/7ffd33b2-d938-468a-afa2-e33111748227" />
+<img width="301" height="146" alt="Screenshot 2026-10-04 130426" src="https://github.com/user-attachments/assets/9958ddc7-89fb-40bb-ad11-e875513a0196" />
 ---
 
 ### 2. Mengembangkan Tabel dengan `thead`, `tbody`, dan `tfoot`
